@@ -33,7 +33,7 @@ Flask==1.1.2
 Flask-Compress==1.8.0
 geographiclib==1.50
 geopandas==0.8.1
-geoplot==0.4.1
+geopy==2.0.0
 gitdb==4.0.5
 GitPython==3.1.11
 hiplot==0.1.21
@@ -79,6 +79,7 @@ pathtools==0.1.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.0.1
+pipdeptree==1.0.0
 plotly==4.13.0
 plotly-geo==1.0.0
 ply==3.11
